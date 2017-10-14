@@ -1,9 +1,3 @@
-# aga0.github.io
+# podstrona
 
-Strona glowa i opis
-
-dane kontaktowe
-
-Linki do podstron:
-WdPP
-VS
+info
