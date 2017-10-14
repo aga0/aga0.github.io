@@ -1,3 +1,0 @@
-# podstrona
-
-info
